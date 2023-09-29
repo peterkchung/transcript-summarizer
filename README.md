@@ -9,7 +9,7 @@ Summarize and extract the major points from a earnings transcript for a company 
 ## Installation & Usage
 
 1. **Pre-requisites**: See requirements.txt document.
-2. **Usage**: Baseline uses the Hugging Face ecosystem in a Jupyter notebook.
+2. **Usage**: Baseline uses the Hugging Face 🤗 ecosystem in a Jupyter notebook.
 
 ## Contribute
 
